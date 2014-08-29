@@ -1,6 +1,6 @@
 # ESLint .bin bug
 
-To reproduce the issue, install ESLint globall (`npm install -g eslint`) and then from within this repo run:
+To reproduce the issue install ESLint globally (`npm install -g eslint`) then from within this repo run:
 
 `eslint ./`
 
